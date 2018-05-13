@@ -6,4 +6,4 @@ A new way to subscribe on [Little-Better-Than-Yesterday](https://github.com/maka
 ## First Post on Monday 📣 ⏳ ⌚️
 
 #### okay I'm intrigued ! How can I get treats straight to my mail ?
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/13570866/39958276-8454df70-561e-11e8-8e8a-57aad6dd71dc.gif)
+<div align="center">![ezgif com-video-to-gif](https://user-images.githubusercontent.com/13570866/39958276-8454df70-561e-11e8-8e8a-57aad6dd71dc.gif)</div>
