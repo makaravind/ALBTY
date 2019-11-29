@@ -1,0 +1,21 @@
+##### Approximations for GZipped versions
+
+Name  | Size
+------------- | -------------
+Ember 2.2.0     | 111K
+Ember 1.13.8    | 123K
+Angular 2       | 111K
+Angular 2 + Rx  |    **143K**
+Angular 1.4.5   |    51K  
+React 0.14.5 + React DOM |          40K
+React 0.14.5 + React DOM + Redux |  42K
+React 15.3.0 + React DOM | 43K
+React 16.2.0 + React DOM | 31.8K
+Vue 2.4.2 | **20.9K**
+Inferno 1.2.2 | 20K
+Preact 7.2.0 | **4kb**
+Aurelia 1.0.2 | 63K
+
+---
+
+Also take a look at this awesome tool https://cost-of-modules.herokuapp.com created by @pastelsky 

@@ -1,0 +1,30 @@
+{
+  "new": [
+    {
+      "content": "**`Another great application of ES6 proxy` 🎊 You can update the properties of an object based on the properties being set. `set, get are called as traps`.** \n ![12_js_proxy](https://user-images.githubusercontent.com/13570866/40635098-0d711630-6316-11e8-92f2-768b70b16783.png)"
+    },
+	{
+		"content": "**`Randomly generate dice object property faceValue on get using MetaProramming in javascript.`** \n\n ![13_js_proxy](https://user-images.githubusercontent.com/13570866/40696049-a90b7416-63e1-11e8-928d-234ec1bf7a78.png)"
+	},
+	{
+		"content": "**Formatting the properties before 'actually' setting the object property-value using Proxy API in ES6** \n\n ![14_js_proxy](https://user-images.githubusercontent.com/13570866/40758310-587bcb3a-64aa-11e8-989e-d3e06776339d.png)"
+	},
+	{
+		"content": "## NPM_SCRIPTS TREAT ????\n### Piping result into the next command\n\n> \"build-js\": \"browserify -t reactify app/js/main.js | uglifyjs -mc > static/bundle.js\"\n\n1. By using the | you can take the result of one task and pass it on to the next. \n2. The output of the browserify command is a bundled file with all the code from all the required modules into one file (the -t reactify is simply packing up .jsx React stuff)."
+	},
+	{
+		"content": ""
+	},
+	{
+		"content": ""
+	},
+	{
+		"content": ""
+	},
+	{
+		"content": "## NPM_SCRIPTS TREAT ⚡️⚡️\n### Different Ways Of Installing A Package Using npm-install\nInstall a package\nnpm install (with no args, in package dir)\nnpm install [<@scope>/]<name>\nnpm install [<@scope>/]<name>@<tag>\nnpm install [<@scope>/]<name>@<version>\nnpm install [<@scope>/]<name>@<version range>\nnpm install <git-host>:<git-user>/<repo-name>\nnpm install <git repo url>\nnpm install <tarball file>\nnpm install <tarball url>\nnpm install <folder>\n\n\n\nalias: npm i\ncommon options: [-P|--save-prod|-D|--save-dev|-O|--save-optional] [-E|--save-exact] [-B|--save-bundle] [--no-save] [--dry-run]",
+		"number": "28"
+	}
+  ],
+  "done": []
+}

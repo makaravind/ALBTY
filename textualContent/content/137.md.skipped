@@ -1,0 +1,24 @@
+But that doesn’t work now, because $watch is looking for the watched property inside the $scope, 
+and you don’t directly bind that property to $scope. Instead watched property is binded to this. 
+The correct way to do it now is as shown in the following example:
+
+app.controller('Ctrl', function ($scope) {
+    this.name = 'name';
+
+    $scope.$watch(function () {
+      return this.title
+    }.bind(this), function (newVal, oldVal) {
+
+    });
+});
+Alternative is using angular.bind:
+
+app.controller('Ctrl', function ($scope) {
+    this.name = 'name';
+
+    $scope.$watch(angular.bind(function () {
+      return this.title
+    }), function (newVal, oldVal) {
+
+    });
+});
